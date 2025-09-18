@@ -123,7 +123,7 @@
 
 ### 🏆 Certifications  
 
-<img src="https://img.shields.io/badge/AI%20Ethics-Certificate-4CAF50?style=for-the-badge&logo=google&logoColor=white" alt="AI Ethics" />  
+<img src="https://img.shields.io/badge/AI%20Ethics-Certificate-4CAF50?style=for-the-badge&logo=blockchain&logoColor=white" alt="AI Ethics Certificate by ABAII Blockchain" />
 <img src="https://img.shields.io/badge/Google%20Data%20Analytics-Professional-FF5722?style=for-the-badge&logo=google&logoColor=white" alt="Google Data Analytics" />  
 <img src="https://img.shields.io/badge/B2%20VSTEP-Language-2196F3?style=for-the-badge&logo=bookstack&logoColor=white" alt="B2 VSTEP" />  
 
