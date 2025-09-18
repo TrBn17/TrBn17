@@ -1,16 +1,151 @@
-## Hi there 👋
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=100000&color=6366F1&vCenter=true&repeat=false&width=500&height=35&lines=Hi+there%2C+I'm+Tran+Bao+Ngoc)](https://git.io/typing-svg)
 
-<!--
-**TrBn17/TrBn17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=AI+Engineer+%F0%9F%A4%96;Backend+Developer+%E2%9A%A1;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Building+Scalable+Solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
+  
+  <img src="https://komarev.com/ghpvc/?username=TrBn17&color=6366f1&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/TrBn17?label=Followers&style=flat-square&color=8b5cf6" alt="GitHub Followers" />
+  
+  <br/>
+  
+  <a href="https://github.com/TrBn17">
+    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://huggingface.co/NGOC1712">
+    <img src="https://img.shields.io/badge/HuggingFace-FF9500?style=for-the-badge&logo=huggingface&logoColor=white" alt="HuggingFace" />
+  </a>
+  <a href="mailto:trbaongoc17@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  
+</div>
 
-Here are some ideas to get you started:
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 About Me
+
+> *Passionate about AI, Machine Learning, and Building Scalable Solutions*
+
+- 🔭 Currently working as **AI Engineer** at **FOXAi Joint Stock Company**
+- 🌱 Constantly learning and improving my tech skills and soft skills  
+- 📍 Based in **Hanoi, Vietnam**
+
+<br clear="right"/>
+
+## 💻 Tech Stack
+
+<table align="center">
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" /></td>
+    <td><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="Hugging Face" /></td>
+    <td><img src="https://cdn.brandfetch.io/idR3duQxYl/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="48" height="48" alt="OpenAI" /></td>
+    <td><img src="https://cdn.brandfetch.io/idzf7Sjo28/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="48" height="48" alt="Langchain" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" /></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="SQL" /></td>
+    <td><img src="https://cdn.brandfetch.io/idmg-NaphI/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="48" height="48" alt="MinIO" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="48" height="48" alt="Grafana" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="48" height="48" alt="Prometheus" /></td>
+    <td><img src="https://raw.githubusercontent.com/grafana/loki/main/docs/sources/logo.png" width="48" height="48" alt="Loki" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" height="48" alt="Flask" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" height="48" alt="Django" /></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TrBn17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrBn17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" alt="Top Languages" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TrBn17&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6" alt="GitHub Streak" />
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&random=false&width=600&height=30&lines=Achievement+Unlocked+%F0%9F%8F%86;Trophy+Collection+%E2%9C%A8;Milestone+Reached+%F0%9F%8E%AF;Keep+Going+Strong+%F0%9F%92%AA)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TrBn17&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+</div>
+
+## 🎓 Education & Certifications
+
+<div align="center">
+
+**Bachelor of Business Data Analytics** | *International School - VNU*
+<br/>
+🎯 Major: Business Data Analytics
+
+<br/>
+
+### 🏆 Certifications
+![Certificate](https://img.shields.io/badge/AI%20Ethics-Certificate-4CAF50?style=for-the-badge&logo=google&logoColor=white)
+![Certificate](https://img.shields.io/badge/Google%20Data%20Analytics-Professional-FF5722?style=for-the-badge&logo=google&logoColor=white)
+![Certificate](https://img.shields.io/badge/B2%20VSTEP-Language-2196F3?style=for-the-badge&logo=babel&logoColor=white)
+
+</div>
+
+## 📊 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TrBn17&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=8B5CF6&point=6366F1" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=16&duration=4000&pause=1000&color=10B981&center=true&vCenter=true&random=false&width=700&height=30&lines=Code+is+poetry+written+in+logic+%F0%9F%92%AD;Debugging+is+like+detective+work+%F0%9F%95%B5%EF%B8%8F;Every+bug+is+a+lesson+in+disguise+%F0%9F%90%9B;First%2C+solve+the+problem.+Then%2C+write+the+code.+%F0%9F%92%BB)](https://git.io/typing-svg)
+
+</div>
+
+## 📬 Let's Connect!
+
+<div align="center">
+  
+**I'm always interested in hearing about exciting projects and collaboration opportunities!**
+  
+  <a href="mailto:trbaongoc17@gmail.com">
+    <img src="https://img.shields.io/badge/Drop%20me%20a%20line-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  
+</div>
+
+---
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=14&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=600&height=25&lines=Thanks+for+visiting+my+profile!+%E2%9C%A8;Happy+coding!+%F0%9F%92%BB;See+you+in+the+commits!+%F0%9F%9A%80;Stay+curious%2C+keep+learning!+%F0%9F%93%9A)](https://git.io/typing-svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" alt="Footer" />
+  
+  <b>⭐ From [TrBn17](https://github.com/TrBn17) with ❤️</b>
+
+</div>
