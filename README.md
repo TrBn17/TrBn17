@@ -110,23 +110,24 @@
   <img src="https://github-profile-trophy.vercel.app/?username=TrBn17&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
-## 🎓 Education & Certifications
+## 🎓 Education & Certifications  
 
 <div align="center">
 
-**Bachelor of Business Data Analytics** | *International School - VNU*
-<br/>
-🎯 Major: Business Data Analytics
+### 🎓 Education  
+📘 **Bachelor of Business Data Analytics**  
+🏫 *International School - VNU*  
+🎯 **Major:** Business Data Analytics  
 
-<br/>
+---
 
-### 🏆 Certifications
-![Certificate](https://img.shields.io/badge/AI%20Ethics-Certificate-4CAF50?style=for-the-badge&logo=google&logoColor=white)
-![Certificate](https://img.shields.io/badge/Google%20Data%20Analytics-Professional-FF5722?style=for-the-badge&logo=google&logoColor=white)
-![Certificate](https://img.shields.io/badge/B2%20VSTEP-Language-2196F3?style=for-the-badge&logo=babel&logoColor=white)
+### 🏆 Certifications  
+
+<img src="https://img.shields.io/badge/AI%20Ethics-Certificate-4CAF50?style=for-the-badge&logo=google&logoColor=white" alt="AI Ethics" />  
+<img src="https://img.shields.io/badge/Google%20Data%20Analytics-Professional-FF5722?style=for-the-badge&logo=google&logoColor=white" alt="Google Data Analytics" />  
+<img src="https://img.shields.io/badge/B2%20VSTEP-Language-2196F3?style=for-the-badge&logo=bookstack&logoColor=white" alt="B2 VSTEP" />  
 
 </div>
-
 
 ## 📬 Let's Connect!
 
