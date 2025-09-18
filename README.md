@@ -23,6 +23,19 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
+## 📊 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TrBn17&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=8B5CF6&point=6366F1&area=true&animate=true" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=16&duration=4000&pause=1000&color=10B981&center=true&vCenter=true&random=false&width=700&height=30&lines=Code+is+poetry+written+in+logic+%F0%9F%92%AD;Debugging+is+like+detective+work+%F0%9F%95%B5%EF%B8%8F;Every+bug+is+a+lesson+in+disguise+%F0%9F%90%9B;First%2C+solve+the+problem.+Then%2C+write+the+code.+%F0%9F%92%BB)](https://git.io/typing-svg)
+
+</div>
+
+
 ## 🎯 About Me
 
 > *Passionate about AI, Machine Learning, and Building Scalable Solutions*
@@ -76,10 +89,6 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TrBn17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrBn17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" alt="Top Languages" height="180"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TrBn17&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6" alt="GitHub Streak" />
@@ -114,17 +123,6 @@
 
 </div>
 
-## 📊 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TrBn17&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=8B5CF6&point=6366F1" alt="Contribution Graph" />
-</div>
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=16&duration=4000&pause=1000&color=10B981&center=true&vCenter=true&random=false&width=700&height=30&lines=Code+is+poetry+written+in+logic+%F0%9F%92%AD;Debugging+is+like+detective+work+%F0%9F%95%B5%EF%B8%8F;Every+bug+is+a+lesson+in+disguise+%F0%9F%90%9B;First%2C+solve+the+problem.+Then%2C+write+the+code.+%F0%9F%92%BB)](https://git.io/typing-svg)
-
-</div>
 
 ## 📬 Let's Connect!
 
