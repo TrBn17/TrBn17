@@ -1,9 +1,14 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=100000&color=6366F1&vCenter=true&repeat=false&width=500&height=35&lines=Hi+there%2C+I'm+Tran+Bao+Ngoc)](https://git.io/typing-svg)
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=100000&color=000000&vCenter=true&repeat=false&width=500&height=35&lines=Hi+there%2C+I'm+Tran+Bao+Ngoc)](https://git.io/typing-svg)
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=AI+Engineer+%F0%9F%A4%96;Backend+Developer+%E2%9A%A1;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Building+Scalable+Solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
-  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&random=false&width=600&lines=AI+Engineer+%F0%9F%A4%96;Backend+Developer+%E2%9A%A1;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Building+Scalable+Solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</div>
+
+</div>
+
   <img src="https://komarev.com/ghpvc/?username=TrBn17&color=6366f1&style=flat-square&label=Profile+Views" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/TrBn17?label=Followers&style=flat-square&color=8b5cf6" alt="GitHub Followers" />
   
