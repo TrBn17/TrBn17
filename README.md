@@ -27,14 +27,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 
-## 📊 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TrBn17&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=8B5CF6&point=6366F1&area=true&animate=true" alt="Contribution Graph" />
-</div>
-
-<div align="center">
-  
+ 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=16&duration=4000&pause=1000&color=10B981&center=true&vCenter=true&random=false&width=700&height=30&lines=Code+is+poetry+written+in+logic+%F0%9F%92%AD;Debugging+is+like+detective+work+%F0%9F%95%B5%EF%B8%8F;Every+bug+is+a+lesson+in+disguise+%F0%9F%90%9B;First%2C+solve+the+problem.+Then%2C+write+the+code.+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 </div>
@@ -44,7 +37,7 @@
 
 > *Passionate about AI, Machine Learning, and Building Scalable Solutions*
 
-- 🔭 Currently working as **AI Engineer** at **FOXAi Joint Stock Company**
+- 🔭 Currently working as **AI Integrate Engineer** at **Aon Vina**
 - 🌱 Constantly learning and improving my tech skills and soft skills  
 - 📍 Based in **Hanoi, Vietnam**
 
@@ -98,18 +91,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TrBn17&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6" alt="GitHub Streak" />
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&random=false&width=600&height=30&lines=Achievement+Unlocked+%F0%9F%8F%86;Trophy+Collection+%E2%9C%A8;Milestone+Reached+%F0%9F%8E%AF;Keep+Going+Strong+%F0%9F%92%AA)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TrBn17&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-</div>
-
 ## 🎓 Education & Certifications  
 
 <div align="center">
@@ -129,26 +110,3 @@
 
 </div>
 
-## 📬 Let's Connect!
-
-<div align="center">
-  
-**I'm always interested in hearing about exciting projects and collaboration opportunities!**
-  
-  <a href="mailto:trbaongoc17@gmail.com">
-    <img src="https://img.shields.io/badge/Drop%20me%20a%20line-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  
-</div>
-
----
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=14&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=600&height=25&lines=Thanks+for+visiting+my+profile!+%E2%9C%A8;Happy+coding!+%F0%9F%92%BB;See+you+in+the+commits!+%F0%9F%9A%80;Stay+curious%2C+keep+learning!+%F0%9F%93%9A)](https://git.io/typing-svg)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" alt="Footer" />
-  
-  <b>⭐ From [TrBn17](https://github.com/TrBn17) with ❤️</b>
-
-</div>
