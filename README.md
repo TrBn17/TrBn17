@@ -1,4 +1,4 @@
-- 🔭 Currently working as **AI Engineer** at **Hahlex**
+- 🔭 Currently working as **AI Integrate Engineer**
 - 🌱 Constantly learning and improving my tech skills and soft skills  
 - 📍 Based in **Hanoi, Vietnam**
 
